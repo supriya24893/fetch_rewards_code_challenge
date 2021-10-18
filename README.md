@@ -1,4 +1,4 @@
-# This file is teh submissin from Supriya Saxena for the code challenge at Fetch Reewards.
+# This file is the submission from Supriya Saxena for the code challenge at Fetch Rewards.
 There are 4 files:
 First:The powerpoint file has the methodology and ER diagram for the 3 unstructured JSON files: the users, receipts and brands data tables
 Second:Microsoft SQL Server management studio 18 has been used to perform the SQL data analysis and answer all the business questions mentioned. The assumptions made priot to the analysis have been detailed on top of the file.
